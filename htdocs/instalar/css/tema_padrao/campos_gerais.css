@@ -1,0 +1,41 @@
+
+.div_logout_usuario{
+
+float: right;
+margin-top: 5px;
+margin-right: 10px;
+margin-left: 10px;
+
+
+}
+
+
+.div_logout_usuario a{
+
+color: #ffffff;
+
+}
+
+
+.div_logout_usuario a:hover{
+
+color: #ffffff;
+
+}
+
+
+.classe_campos_textaera_gerais{
+
+width: 100%;
+margin-bottom: 8px;
+min-height: 55px;
+
+}
+
+
+.botoes_pagina_inicial_nao_logado{
+
+width: 150px;
+
+}
+

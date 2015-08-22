@@ -1,0 +1,102 @@
+
+.classe_formulario_editar_perfil{
+
+padding: 5px;
+background-color: #eff2f8;
+border-width: 1px;
+border-style: solid;
+border-color: #d8e0ef;
+
+}
+
+
+.classe_div_separa_desc_campo_formulario{
+
+margin-top: 8px;
+margin-bottom: 10px;
+margin-right: 8px;
+width: 135px;
+float: left;
+text-align: right;
+
+}
+
+
+.classe_formulario_editar_perfil input[type=text]{
+
+width: 250px;
+margin-bottom: 10px;
+
+}
+
+
+.classe_formulario_editar_perfil textarea{
+
+min-height: 75px;
+padding: 10px;
+width: 250px;
+margin-bottom: 10px;
+
+}
+
+
+.classe_formulario_editar_perfil select{
+
+width: 250px;
+margin-bottom: 10px;
+
+}
+
+
+.classe_formulario_editar_perfil input[type=password]{
+
+width: 250px;
+margin-bottom: 10px;
+
+}
+
+
+.classe_select_data_formulario{
+
+width: 250px;
+margin-right: 5px;
+margin-bottom: 10px;
+float: left;
+
+}
+
+
+.classe_div_campo_data_formulario{
+
+width: 300px;
+height: 30px;
+margin-left: 143px;
+
+}
+
+
+.classe_div_campo_data_formulario select{
+
+margin-right: 5px;
+float: left;
+max-width: 100;
+min-width: 75px;
+width: auto;
+
+}
+
+
+.classe_div_campo_salvar_editar_perfil{
+
+padding-left: 144px;
+padding-top: 5px;
+width: 100%;
+border-top-color: #dbe3f0;
+border-top-style: solid;
+border-top-width: 1px;
+margin-top: 10px;
+margin-bottom: 5px;
+
+}
+
+

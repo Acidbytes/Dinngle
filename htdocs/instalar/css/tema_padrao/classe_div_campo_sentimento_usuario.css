@@ -1,0 +1,29 @@
+.classe_div_campo_sentimento_usuario{
+
+word-break: break-all;
+width: 300px;
+min-height: 20px;
+float: left;
+color: #8296ab;
+
+}
+
+
+.div_opcao_sentimento_menu_drop_usuario{
+
+cursor:pointer;
+margin-top: 5px;
+margin-bottom: 10px;
+color: #8296ab;
+
+}
+
+
+#div_exibe_tipo_humor_usuario{
+
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+

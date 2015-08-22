@@ -1,0 +1,268 @@
+.div_conteudo_central_publicacoes_usuario{
+
+background-color: #ffffff;
+max-width: 100%;
+min-width: 320px;
+
+height: 100%;
+display: table;
+
+table-layout: fixed;
+padding-bottom: 10px;
+
+}
+
+
+.div_campo_publicar{
+
+background-color: #f1f3f9;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #dfe4ea;
+
+border-top-style: solid;
+border-top-color: #dce2ea;
+border-top-width: 1px;
+
+float: left;
+width: 100%;
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+display: table;
+
+}
+
+
+.textarea_campo_publicar{
+
+width: 100%;
+height: 100px;
+margin-bottom: 10px;
+padding-top: 6px;
+padding-left: 5px;
+
+}
+
+
+.imagem_miniatura_iniciar_publicacao_post{
+
+width: 143px;
+height: 143px;
+margin-left: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+float: left;
+
+}
+
+
+#campo_file_upload_postagem{
+
+display: none;
+
+}
+
+
+#output_imagens_upload_publicacao{
+
+background-color: #dfe4ea;
+border-style: solid;
+border-width: 1px;
+border-color: #d0d7df;
+padding: 5px;
+
+margin-bottom: 15px;
+display: none;
+
+}
+
+
+.imagem_perfil_miniatura_postagem{
+
+width: 48px;
+height: 48px;
+margin-right: 5px;
+
+}
+
+
+.div_postagem_completa_usuario{
+
+word-break: break-all;
+margin-top: 10px;
+margin-bottom: 5px;
+
+float: left;
+padding-top: 6px;
+padding-bottom: 10px;
+padding-left: 5px;
+padding-right: 5px;
+
+display: table;
+width: 100%;
+
+}
+
+
+.div_postagem_completa_usuario_compartilhamento{
+
+background-color: #f2f2f2;
+padding: 5px;
+padding-bottom: 10px;
+
+border-style: solid;
+border-width: 1px;
+border-color: #dce2ea;
+
+}
+
+
+.div_data_publicacao_postagem_usuario{
+
+float: left;
+
+
+}
+
+
+.div_topo_postagem_usuario{
+
+display: table;
+width: 100%;
+margin-bottom: 5px;
+
+}
+
+
+.div_rodape_postagem_usuario{
+
+margin-top: 75px;
+min-height: 25px;
+
+padding-top: 5px;
+padding-left: 5px;
+padding-right: 2%;
+
+border-left-color: #dfe4ea;
+border-left-style: solid;
+border-left-width: 1px;
+
+margin-left: 1%;
+margin-right: 1%;
+
+width: 98%;
+float: left;
+
+}
+
+
+.div_conteudo_postagem_usuario{
+
+background-color: #ffffff;
+
+display: table;
+width: 100%;
+float: left;
+
+}
+
+
+.campo_privacidade_publicacao_usuario_postar{
+
+width: 90px;
+float: left;
+
+}
+
+
+.div_corpo_imagens_publicacao_usuario{
+
+margin-top: 5px;
+
+float: left;
+width: 100%;
+display: table;
+
+}
+
+
+.div_corpo_texto_publicacao_usuario{
+
+text-align: left;
+width: 100%;
+margin-top: 10px;
+margin-bottom: 5px;
+
+display: table;
+float: left;
+
+}
+
+
+.div_corpo_imagem_classe_postagem{
+
+max-width: 100%;
+width: 100%;
+float: left;
+
+margin-bottom: 5px;
+text-align: center;
+padding-bottom: 10px;
+
+}
+
+
+.imagem_album_usuario_classe_postagem{
+
+max-width: 100%;
+margin-bottom: 10px;
+margin-top: 5px;
+
+}
+
+
+.menus_opcoes_postagem{
+
+float: right;
+margin-left: 5px;
+
+}
+
+
+.campos_opcoes_postagem_usuario_atualizar{
+
+margin-bottom: 2%;
+margin-top: 5px;
+
+}
+
+
+.div_menu_opcoes_excluir_compartilhamento{
+
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+
+.div_campo_publicacao_opcoes{
+
+width: 100%;
+height: 25px;
+margin-bottom: 10px;
+
+border-bottom-color: #dfe4ea;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+
+}
+
+
+.classe_div_topo_autor_postagem{
+
+float: left;
+
+}
+
+

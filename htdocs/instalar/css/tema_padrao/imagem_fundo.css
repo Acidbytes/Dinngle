@@ -1,0 +1,68 @@
+.classe_div_formulario_upload{
+
+width: 100%;
+float: left;
+background-color: #ffffff;
+color: #567898;
+margin-bottom: 10px;
+
+}
+
+
+.classe_div_formulario_upload div{
+
+width: 100%;
+margin-bottom: 5px;
+
+}
+
+
+#campo_file_upload_imagem_fundo{
+
+display: none;
+
+}
+
+
+.imagem_miniatura_papel_parede{
+
+max-width: 300px;
+max-height: 400px;
+margin-bottom: 10px;
+
+}
+
+
+.imagem_miniatura_papel_parede:hover{
+
+background-color: #dfe4ea;
+color: #0084b4;
+
+-webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+-moz-animation: fadein 1s; /* Firefox < 16 */
+-ms-animation: fadein 1s; /* Internet Explorer */
+-o-animation: fadein 1s; /* Opera < 12.1 */
+animation: fadein 1s;
+
+cursor:pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

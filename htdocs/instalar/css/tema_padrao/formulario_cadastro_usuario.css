@@ -1,0 +1,50 @@
+
+
+#entrada_texto_formulario_senha_1{
+
+max-width: 200px;
+min-width: 175px;
+
+}
+
+
+#entrada_texto_formulario_senha_2{
+
+max-width: 200px;
+min-width: 175px;
+
+}
+
+
+#entrada_texto_formulario_nome{
+
+max-width: 250px;
+min-width: 175px;
+
+}
+
+
+#entrada_texto_formulario_email{
+
+max-width: 250px;
+min-width: 175px;
+
+}
+
+
+#div_formulario_cadastro{
+
+padding: 5px;
+
+}
+
+
+.classe_div_formulario_cadastro_topo{
+
+font-size: 16px;
+font-weight: bold;
+
+}
+
+
+

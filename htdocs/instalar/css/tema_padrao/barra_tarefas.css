@@ -1,0 +1,20 @@
+.classe_barra_tarefas{
+
+background-color: #ffffff;
+max-width: 1280px;
+min-width: 320px;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+height: 30px;
+
+position: fixed;
+bottom: 0px;
+margin-top: 5px;
+z-index: 99999;
+
+text-align: left;
+
+}
+
+

@@ -1,0 +1,57 @@
+.div_especial_geral_titulo{
+
+float: left;
+width: 100%;
+min-height: 25px;
+margin-top: 5px;
+margin-bottom: 2px;
+padding-left: 5px;
+padding-top: 2px;
+
+text-align: left;
+font-weight: bold;
+color: #323232;
+background-color: #edf0f4;
+
+border-top-style: solid;
+border-top-color: #dce2ea;
+border-top-width: 1px;
+
+}
+
+
+.div_especial_geral_conteudo{
+
+padding-top: 5px;
+width: 100%;
+display: table;
+
+font-weight: normal;
+float: left;
+background-color: #ffffff;
+margin-bottom: 10px;
+word-break: break-all;
+min-height: 45px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

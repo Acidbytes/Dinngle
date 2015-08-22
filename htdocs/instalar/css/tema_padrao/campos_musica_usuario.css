@@ -1,0 +1,105 @@
+.div_formulario_upload_musica{
+
+background-color: #eff1f4;
+width: 100%;
+min-height: 55px;
+text-align: left;
+padding: 1%;
+color: #8296ab;
+
+margin-top: 1%;
+
+}
+
+
+#campo_file_musica_upload{
+
+display: none;
+
+}
+
+
+.div_campo_adicionar_musica_perfil{
+
+background-color: #eff1f4;
+width: 100%;
+height: 50px;
+text-align: left;
+padding: 1%;
+color: #8296ab;
+
+
+font-weight: bold;
+
+}
+
+
+.div_campo_adicionar_musica_perfil:hover{
+
+background-color: #dfe4ea;
+color: #0084b4;
+
+-webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+-moz-animation: fadein 1s; /* Firefox < 16 */
+-ms-animation: fadein 1s; /* Internet Explorer */
+-o-animation: fadein 1s; /* Opera < 12.1 */
+animation: fadein 1s;
+
+cursor:pointer;
+
+}
+
+
+.botao_salvar_configuracao_musica{
+	
+margin-top: 8px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

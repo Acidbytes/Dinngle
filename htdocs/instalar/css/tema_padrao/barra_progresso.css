@@ -1,0 +1,45 @@
+.classe_div_barra_progresso{
+
+margin-top: 5px;
+margin-bottom: 2px;
+
+}
+
+
+#barra_progresso_postagem_conteudo{
+
+display: none;
+
+}
+
+
+#barra_progresso_upload_imagens_album{
+
+display: none;
+
+}
+
+
+#barra_progresso_upload_imagem_perfil{
+
+display: none;
+
+}
+
+
+#barra_progresso_upload_imagem_fundo{
+
+display: none;
+
+}
+
+
+#barra_progresso_upload_musica_usuario{
+
+display: none;
+
+}
+
+
+
+

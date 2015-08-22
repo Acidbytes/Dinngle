@@ -1,0 +1,77 @@
+.classe_depoimento_usuario{
+
+margin-top: 10px;
+margin-bottom: 20px;
+padding: 5px;
+display: table;
+width: 100%;
+
+border-top-style: solid;
+border-top-width: 1px;
+border-top-color: #dfe4ea;
+
+}
+
+
+.classe_depoimento_usuario span{
+
+float: left;
+
+}
+
+
+.classe_depoimento_usuario_data{
+
+margin-top: 30px;
+margin-bottom: 10px;
+padding-bottom: 5px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #dfe4ea;
+
+}
+
+
+.div_campo_aceita_depoimento{
+
+margin-top: 10px;
+margin-bottom: 20px;
+padding: 5px;
+display: table;
+width: 100%;
+
+border-top-style: solid;
+border-top-width: 1px;
+border-top-color: #dfe4ea;
+
+}
+
+
+.imagem_miniatura_depoimento_usuario{
+
+width: 40px;
+height: 50px;
+
+}
+
+
+
+.classe_div_separa_imagem_depoimento{
+
+width: auto;
+float: left;
+
+}
+
+
+.classe_div_separa_texto_depoimento{
+
+float: left;
+width: 225px;
+margin-left: 5px;
+overflow: auto;
+
+}
+
+
+

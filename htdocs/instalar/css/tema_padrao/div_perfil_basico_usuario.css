@@ -1,0 +1,30 @@
+#div_perfil_basico_usuario{
+
+width: 25%;
+float: left;
+padding: 5px;
+
+}
+
+
+.classe_div_campos_constroe_campo_editar_perfil{
+
+height: 100%;
+width: 100%;
+display: table;
+
+}
+
+
+.div_navegacao_perfil_usuario_logado{
+
+float: left;
+width: 25%;
+min-height: 200px;
+padding: 5px;
+padding-top: 0px;
+margin-top: 5px;
+
+}
+
+

@@ -1,0 +1,81 @@
+
+.div_formulario_login{
+	
+float: right;
+
+width: 320px;
+padding-left: 2px;
+padding-bottom: 4px;
+padding-top: 5px;
+
+}
+
+
+.campo_email_login{
+	
+width: 150px;
+
+}
+
+
+.campo_senha_login{
+	
+width: 150px;
+
+}
+
+
+.div_formulario_login span{
+
+}
+
+
+.formulario_login_span_email{
+
+color: #ffffff;
+
+font-weight: bold;
+
+}
+
+
+.formulario_login_span_senha{
+
+color: #ffffff;
+
+font-weight: bold;
+
+}
+
+
+.formulario_login_link_recupera_senha{
+
+
+color: #cad4df;
+
+}
+
+
+.formulario_login_link_recupera_senha:hover{
+	
+color: #edf0f4;
+
+}
+
+
+.div_formulario_login_separa{
+
+float: left;
+margin-right: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+

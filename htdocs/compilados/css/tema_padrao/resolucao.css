@@ -1,0 +1,361 @@
+
+
+@media only screen
+and (min-device-width : 320px){
+
+
+#div_conteudo_pagina_1{
+
+max-width: 100%;
+min-width: 320px;
+width: 100%;
+
+}
+
+
+#div_conteudo_pagina_2{
+
+max-width: 100%;
+min-width: 320px;
+width: 100%;
+margin-left: -1px;
+
+}
+
+
+.classe_bloco_miniatura{
+
+width: 298px;
+max-height: 350px;
+min-height: 250px;
+height: auto;
+
+}
+
+
+.div_separa_amizade{
+
+width: 137px;
+text-align: center;
+
+border-left-color: #d0d7df;
+border-left-style: solid;
+border-left-width: 1px;
+
+border-right-color: #d0d7df;
+border-right-style: solid;
+border-right-width: 1px;
+
+}
+
+
+.imagem_super_miniatura_perfil{
+
+width: 100px;
+height: 125px;
+
+}
+
+
+.div_especial_basica_campos{
+
+min-width: 300px;
+max-width: 100%;
+width: 300px;
+float: left;
+
+}
+
+
+.div_imagem_perfil{
+
+max-width: 100%;
+min-width: 320px;
+width: 100%;
+padding: 0px;
+border-width: 0px;
+margin-right: 0px;
+margin-left: 0px;
+
+}
+
+
+.div_campos_links_perfil{
+
+text-align: center;
+width: 320px;
+
+}
+
+
+.div_campos_links_perfil a{
+
+border-style: solid;
+border-width: 1px;
+border-color: #dce2ea;
+padding-top: 4px;
+padding-bottom: 4px;
+width: 150px;
+margin-left: 0.5em;
+
+}
+
+
+.imagem_perfil{
+
+width: 250px;
+height: 325px;
+
+}
+
+
+.classe_div_pesquisa_geral{
+
+max-width: 100%;
+min-width: 320px;
+width: 100%;
+
+}
+
+
+.balao_mensagem_enviou{
+
+margin-left: -18px;
+
+}
+
+
+.balao_mensagem_recebeu{
+
+margin-left: -18px;
+
+}
+
+
+.campos_opcoes_links_perfil{
+
+width: 100%;
+
+}
+
+
+.classe_barra_tarefas{
+
+max-height: 115px;
+display: table;
+
+}
+
+
+.classe_barra_tarefas div{
+
+float: left;
+height: 30px;
+margin-bottom: 5px;
+margin-top: 5px;
+margin-left: 5px;
+min-width: 55px;
+
+}
+
+
+.classe_campo_ocultar_exibir_chat{
+
+width: 310px;
+margin-left: 0px;
+margin-right: 0px;
+
+}
+
+
+.classe_div_chat_usuario{
+
+width: 310px;
+height: 225px;
+bottom: 80px;
+
+}
+
+
+.classe_comentario_usuario{
+
+width: 225px;
+
+}
+
+
+#campo_pesquisa_generica{
+
+width: 195px;
+
+}
+
+
+.div_perfil_ultra_basico_miniatura_usuario{
+
+width: 100%;
+margin: 0px;
+margin-bottom: 5px;
+
+}
+
+
+.classe_div_separa_desc_campo_formulario{
+
+float: none;
+margin-right: 0px;
+text-align: left;
+margin-top: 20px;
+margin-bottom: 2px;
+
+}
+
+
+.classe_div_campo_data_formulario{
+
+margin-left: 0px;
+
+}
+
+
+.classe_div_campo_salvar_editar_perfil{
+
+padding-left: 0px;
+
+}
+
+
+.classe_links_abas_perfil_usuario{
+
+width: 100%;
+border-bottom-color: #e4e9f3;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-radius: 0px;
+
+}
+
+
+#div_cabecalho_pagina{
+
+margin: 0px;
+padding: 0px;
+border-width: 0px;
+
+}
+
+
+.classe_div_aba_links_selecao{
+
+width: 98%;
+
+}
+
+
+.classe_div_separa_elemento_perfil_div_1{
+
+padding-left: 5px;
+
+}
+
+
+.classe_div_separa_elemento_perfil_div_2{
+
+width: 140px;
+padding-right: 5px;
+
+}
+
+
+.classe_div_separa_texto_depoimento{
+
+width: 260px;
+
+}
+
+
+.classe_div_especial_quadro_aviso{
+
+margin-left: 20px;
+width: 250px;
+
+-ms-transform: rotate(10deg); /* IE 9 */
+-webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+transform: rotate(10deg);
+
+}
+
+
+.classe_div_especial_quadro_aviso:hover{
+
+margin-left: 0px;
+width: 100%;
+
+}
+
+
+.imagem_album_usuario_classe_postagem{
+
+min-width: 200px;
+max-width: 300px;
+
+}
+
+
+.div_corpo_imagem_classe_postagem{
+
+width: 100%;
+
+}
+
+
+.adicionar_campo_titulo_imagem input[type="text"]{
+
+width: 100%;
+
+}
+
+
+.classe_div_campo_pesquisa_geral{
+
+width: 100%;
+margin: 0px;
+margin-top: 5px;
+margin-bottom: 5px;
+float: left;
+padding: 0px;
+
+}
+
+
+#campo_pesquisa_generica{
+
+width: 90%;
+margin: 0px;
+margin-top: 5px;
+
+}
+
+
+.classe_imagem_campo_pesquisa_geral{
+
+top: 15px;
+left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

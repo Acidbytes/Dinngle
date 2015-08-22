@@ -1,0 +1,25 @@
+.div_tipo_privacidade_campo{
+
+background-color: #eff1f4;
+width: 100%;
+
+text-align: left;
+
+color: #8296ab;
+margin-top: 1%;
+margin-bottom: 10px;
+
+}
+
+
+.div_tipo_privacidade_campo select{
+
+min-width: 50px;
+max-width: 100px;
+height: 26px;
+
+}
+
+
+
+

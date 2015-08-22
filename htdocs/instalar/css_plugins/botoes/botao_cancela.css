@@ -1,0 +1,23 @@
+.botao_cancela {
+	background-color:#e4685d;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:11px;
+	padding:5px 20px;
+	text-decoration:none;
+	margin-right: 5px;
+	
+}
+.botao_cancela:hover {
+	background-color:#eb675e;
+}
+.botao_cancela:active {
+	position:relative;
+	top:1px;
+}

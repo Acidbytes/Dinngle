@@ -1,0 +1,229 @@
+.div_perfil_ultra_basico_usuario{
+
+width: 100%;
+float: left;
+border-style: solid;
+border-width: 1px;
+border-color: #dfe4ea;
+margin-top: 5px;
+margin-bottom: 5px;
+font-weight: normal;
+padding: 3px;
+
+}
+
+
+.div_perfil_ultra_basico_miniatura_usuario{
+
+margin-bottom: 5px;
+padding-top: 5px;
+padding-left: 2px;
+padding-right: 2px;
+padding-bottom: 2px;
+
+float: left;
+width: 275px;
+height: 220px;
+background-color: #eff1f4;
+text-align: center;
+border-style: solid;
+border-width: 1px;
+border-color: #dfe4ea;
+
+}
+
+
+.div_completa_perfis_miniaturas{
+
+min-height: 230px;
+width: 100%;
+padding-left: 0%;
+display: table;
+
+}
+
+
+.div_separa_sessao_perfil{
+
+width: 100%;
+font-weight: bold;
+background-color: #eff1f4;
+min-height: 20px;
+padding: 1%;
+
+border-style: solid;
+border-width: 1px;
+border-color: #e2e7eb;
+
+margin-top: 3%;
+margin-bottom: 1%;
+
+}
+
+
+.div_campo_nome_usuario_divide_sessao{
+
+background-color: #eff1f4;
+min-height: 48px;
+padding: 1%;
+
+border-style: solid;
+border-width: 1px;
+border-color: #e2e7eb;
+
+font-weight: bold;
+font-size: 20px;
+
+margin-bottom: 1%;
+
+}
+
+
+.div_imagem_perfil{
+
+float: left;
+width: 204px;
+text-align: center;
+
+padding-left: 2px;
+padding-right: 2px;
+padding-bottom: 2px;
+
+margin-top: 5px;
+margin-right: 5px;
+margin-bottom: 5px;
+
+
+}
+
+
+.div_campos_links_perfil{
+
+width: 175px;
+text-align: left;
+display: table;
+margin-top: 5px;
+padding-left: 2px;
+float: left;
+
+}
+
+
+.div_campo_editar_perfil{
+
+margin-bottom: 5px;
+padding-bottom: 5px;
+
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #dce2ea;
+
+}
+
+
+.imagem_perfil{
+
+width: 200px;
+max-height: 370px;
+margin-bottom: 5px;
+
+}
+
+
+#campo_file_imagem_perfil{
+
+display: none;
+
+}
+
+
+.imagem_perfil_miniatura{
+
+width: 100px;
+height: 125px;
+margin-bottom: 5px;
+
+}
+
+
+.campos_atualizar_perfil_titulo{
+
+margin-top: 10%;
+margin-bottom: 5%;
+padding: 1%;
+
+text-align: center;
+font-weight: bold;
+color: #ffffff;
+background-color: #91a3b5;
+
+}
+
+
+.div_nome_usuario_perfil_ultra_basico{
+
+width: 100%;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+margin-top: 2%;
+
+}
+
+
+.div_perfil_basico_topo_pagina{
+
+float: left;
+min-width: 320px;
+max-width: 625px;
+padding: 5px;
+display: table;
+
+}
+
+
+.div_perfil_basico_topo_pagina span{
+	
+font-size: 22px;
+font-weight: bold;
+
+}
+
+
+.imagem_super_miniatura_perfil{
+
+width: 55px;
+height: 55px;
+
+}
+
+
+.classe_div_separa_elemento_perfil{
+
+width: 100%;
+margin-bottom: 6px;
+display: table;
+
+}
+
+
+.classe_div_separa_elemento_perfil_div_1{
+
+width: 175px;
+text-align: left;
+float: left;
+padding-right: 5px;
+
+}
+
+
+.classe_div_separa_elemento_perfil_div_2{
+
+float: left;
+width: 250px;
+
+}
+
+
+
+

@@ -1,0 +1,171 @@
+.campo_iniciar_chat{
+
+cursor:pointer;
+font-weight: bold;
+padding: 5px;
+float: left;
+
+}
+
+.classe_div_chat_usuario{
+
+max-height: 575px;
+min-height: 400px;
+width: 250px;
+float: left;
+padding: 5px;
+font-size: 12px;
+font-weight: normal;
+
+background-color: #ffffff;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+
+position: fixed;
+bottom: 35px;
+right: 0px;
+z-index: 99999;
+overflow: auto;
+
+border-style: solid;
+border-width: 1px;
+border-color: #b2c1df;
+
+}
+
+
+.imagem_miniatura_perfil_chat{
+
+width: 32px;
+height: 32px;
+margin: 4px;
+
+}
+
+
+.div_separa_usuario_chat{
+
+width: 100%;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #d8e0ef;
+color: #8296ab;
+
+}
+
+.div_separa_usuario_chat:hover{
+
+background-color: #ebeff7;
+cursor:pointer
+
+}
+
+#div_campo_troca_mensagens_chat{
+
+overflow: auto;
+padding: 2px;
+padding-left: 20px;
+font-size: 12px;
+width: 100%;
+height: 230px;
+
+}
+
+#campo_input_chat{
+
+margin-bottom: 5px;
+border-radius: 0px;
+width: 100%;
+
+}
+
+.campo_escreve_mensagem_chat{
+
+
+}
+
+.div_menu_opcoes_conversa_chat{
+
+float: left;
+margin-top: 2px;
+margin-bottom: 3px;
+
+}
+
+.div_avanco_amigos_chat_usuario{
+
+text-align: center;
+padding: 2px;
+margin-bottom: 3px;
+
+}
+
+.classe_span_usuario_online_chat{
+
+display: none;
+margin: 5px;
+
+}
+
+
+.classe_menu_opcoes_modo_chat{
+
+float: right;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+
+
+#div_carregar_mais_mensagens_chat{
+
+margin-top: 5px;
+margin-bottom: 10px;
+width: 100%;
+text-align: left;
+
+}
+
+
+#div_carregar_mais_mensagens_chat img{
+
+cursor:pointer
+
+}
+
+
+.classe_modo_tipo_mensagens_carregar{
+
+margin-top: 5px;
+margin-bottom: 15px;
+
+}
+
+
+.classe_campo_ocultar_exibir_chat{
+
+float: right;
+height: 100%;
+padding-top: 6px;
+cursor: pointer;
+width: 250px;
+
+border-style: solid;
+border-width: 1px;
+border-color: #b2c1df;
+background-color: #ebeff7;
+text-align: center;
+
+}
+
+
+.classe_campo_ocultar_exibir_chat:hover{
+
+background-color: #4066af;
+color: #ffffff;
+
+}
+
+
+
+

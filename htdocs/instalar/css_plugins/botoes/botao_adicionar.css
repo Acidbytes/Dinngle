@@ -1,0 +1,23 @@
+.botao_adicionar {
+	background-color:#44c767;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:11px;
+	padding:5px 20px;
+	text-decoration:none;
+	margin-right: 5px;
+	
+}
+.botao_adicionar:hover {
+	background-color:#5cbf2a;
+}
+.botao_adicionar:active {
+	position:relative;
+	top:1px;
+}

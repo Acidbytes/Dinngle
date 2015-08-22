@@ -1,0 +1,138 @@
+
+
+*{
+
+margin: 0;
+padding: 0;
+padding: 0px;
+font-size: 11px;
+
+}
+
+
+body, html{
+
+max-width: 1280px;
+min-width: 320px;
+margin-left: auto;
+margin-right: auto;
+
+background-position: center 40px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+
+
+div{
+
+
+
+}
+
+
+.div_corpo_pagina{
+
+min-height: 100%;
+position: relative;
+width: 100%;
+background-color: #ffffff;
+margin-bottom: 35px;
+
+}
+
+
+.div_subcorpo_pagina{
+
+width: 100%;
+display: table;
+table-layout: fixed;
+padding-bottom: 5px;
+
+}
+
+
+.div_topo_pagina{
+
+background-color: #0084b4;
+width: 100%;
+min-height: 55px;
+border-bottom-color: #002736;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-radius: 0px;
+display: table;
+font-weight: bold;
+
+padding-top: 4px;
+
+}
+
+
+.div_cabecalho_pagina{
+	
+background-color: #f4f4f4;
+width: 100%;
+padding-bottom: 20px;
+display: table;
+
+border-width: 1px;
+border-style: solid;
+border-color: #dce2ea;
+
+}
+
+
+.div_conteudo_pagina_1{
+
+max-width: 100%;
+width: 25%;
+min-height: 100%;
+
+float: left;
+display: table;
+table-layout: fixed;
+word-break: break-all;
+margin-bottom: 40px;
+
+}
+
+
+.div_conteudo_pagina_2{
+
+max-width: 100%;
+width: 50%;
+min-height: 100%;
+
+float: left;
+display: table;
+table-layout: fixed;
+word-break: break-all;
+
+margin-bottom: 40px;
+
+}
+
+
+.div_rodape_pagina{
+
+height: 75px;
+background-color: #0084b4;
+
+width: 100%;
+color: #ffffff;
+text-align: center;
+
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+
+
+.div_rodape_pagina a{
+
+color: #ffffff;
+
+}
+
